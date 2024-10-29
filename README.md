@@ -18,11 +18,9 @@ Our mission is to create a platform that encourages hands-on learning, open-sour
 ---
 
 ## 🧑‍💻 **Our Team**
-**Faculty Advisor:** [Name]  
-**Club Leaders:** [Name], [Name]  
-**Tech Leads:** [Name], [Name]  
-**Design Leads:** [Name], [Name]  
-**Events & Outreach:** [Name], [Name]  
+**Club Leaders:** [Shrijan Poudel](https://www.github.com/SlytherSavior), [Roshan Yadav](mailto:023a119@sxc.edu.np)  
+**Tech Leads:** [Sushant Pangeni](https://github.com/nightsling)  
+**Events & Outreach:** [Diwas Dhakal](mailto:023a112@sxc.edu.np), [Aarogya Nepal](mailto:023a402@sxc.edu.np)  
 
 ---
 
