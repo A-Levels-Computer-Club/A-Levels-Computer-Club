@@ -1,16 +1,40 @@
-## Hi there 👋
+# A-Levels Computer Club (ALCC) - St. Xavier’s College
 
-<!--
-**A-Levels-Computer-Club/A-Levels-Computer-Club** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the **A-Levels Computer Club (ALCC)** GitHub repository! We are a student-run community from **St. Xavier's College** dedicated to fostering a collaborative environment where members can learn, create, and grow in the field of computer science and technology. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 **Mission**
+Our mission is to create a platform that encourages hands-on learning, open-source contributions, and collaboration among students interested in programming, development, cybersecurity, and other tech-related fields.
+
+---
+
+## 📚 **What We Do**
+1. **Workshops & Seminars:** Organize sessions on various topics like programming languages, web development, AI, cybersecurity, and more.
+2. **Projects & Hackathons:** Encourage members to participate in global and local hackathons. We also work on in-house projects and collaborate on exciting ideas.
+3. **Open-Source Contributions:** Promote contributions to open-source projects and encourage members to participate in events like Hacktoberfest.
+4. **Collaboration & Learning:** Foster a community spirit of sharing knowledge, skills, and ideas.
+
+---
+
+## 🧑‍💻 **Our Team**
+**Faculty Advisor:** [Name]  
+**Club Leaders:** [Name], [Name]  
+**Tech Leads:** [Name], [Name]  
+**Design Leads:** [Name], [Name]  
+**Events & Outreach:** [Name], [Name]  
+
+---
+
+## 📬 **Connect with Us**
+Stay connected with the club’s updates and activities:
+
+- **Official Email:** alcc@sxc.edu.np
+- **Instagram:** [@alcc_sxc](https://instagram.com/alcc_sxc)  
+- **GitHub:** [@A-Levels-Computer-Club](https://github.com/A-Levels-Computer-Club)
+
+Feel free to reach out to us with any questions or collaboration ideas. Happy coding! 🚀
+
+---
+
+**"Learning and Growing, One Line at a Time."** ✨
